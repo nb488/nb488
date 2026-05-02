@@ -1,7 +1,7 @@
 <h1 align="center">✿ Hello, I'm Natalia ✿</h1>
 <p align="center"> CS student @ UBC · aspiring data + backend engineer</p>
 
-## About Me
+## [ About Me ]
 - 🍝 Studying **Computer Science (BCS)** at UBC — looking for **Fall 2026 internships**
   
 - 🥐 Focused on building experience in data pipelines, database design/management & backend development
@@ -12,7 +12,7 @@
   
 - 🥑 Fun fact: I have a background in Microbiology and Immunology and I've performed bacterial research and built recombinant DNA. My previous work experiences allowed me to gain a lot of experience in working with research teams, troubleshooting, presenting results and analyzing data which I use now towards computer science projects. 
 
-## Tech Stack
+## [ Tech Stack ]
 
 **Languages**
 `Python` `SQL` `R` `TypeScript` `JavaScript` `C`
