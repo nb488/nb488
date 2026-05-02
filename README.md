@@ -4,7 +4,7 @@
 ## About Me
 - 🍝 Studying **Computer Science (BCS)** at UBC — looking for **Fall 2026 internships**
   
-- 🥐 Focused on building experience in data pipelines, database design/management & backend APIs
+- 🥐 Focused on building experience in data pipelines, database design/management & backend development
   
 - 🍜 Always learning — I'm working on a **Tableau data analytics certification** 
   
