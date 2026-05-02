@@ -6,7 +6,7 @@
   
 - 🥐 Focused on building experience in data pipelines, database design/management & backend APIs
   
-- 🍜 Always learning — I'm working on a **Tableau data analytics certification** and practicing conversational Spanish
+- 🍜 Always learning — I'm working on a **Tableau data analytics certification** 
   
 - 🍓 Currently fascinated by: **computer networking** — I could tell you a joke about UDP but you probably wouldn't get it (You may want to check for packet loss issues)
   
